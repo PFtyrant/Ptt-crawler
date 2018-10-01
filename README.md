@@ -1,8 +1,8 @@
 # Ptt-crawler
 
 Created on Sun Sep 30 11:13:26 2018
-@author: PFace
-"""
+
+@author: PFtyrant
 
 HW1  crawl usage command lsit:
     Here, I will describe command usage.
