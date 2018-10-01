@@ -4,7 +4,7 @@ Created on Sun Sep 30 11:13:26 2018
 
 @author: PFtyrant
 
-HW1  crawl usage command lsit:
+HW1  crawl usage command list:
     Here, I will describe command usage.
     
     1. 0650744.py crawl (2017年專用，/index.html 開始一路往下爬)
